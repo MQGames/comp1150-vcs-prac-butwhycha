@@ -338,19 +338,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/platformerGraphicsDeluxe/Player
+    - Assets/platformerGraphicsDeluxe/Enemies
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/platformerGraphicsDeluxe/Player
+  - Assets/platformerGraphicsDeluxe/Enemies
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\unity\COMP1150\comp1150-vcs-prac-butwhycha\gitprac
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9c390000
-    m_LastClickedID: 14748
+    m_SelectedIDs: a2390000
+    m_LastClickedID: 14754
     m_ExpandedIDs: 00000000923900009839000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -502,8 +502,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
+      m_SelectedIDs: 22faffff
+      m_LastClickedID: -1502
       m_ExpandedIDs: 64fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
